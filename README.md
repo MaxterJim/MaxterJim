@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a new employment
 - 📫 How to reach me: jaime.robledo.villacob@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I don't speak English but, I'm going to speak it.
+- ⚡ Fun fact: I learn English yet, I'm going to speak it.
 
 <!---
 MaxterJim/MaxterJim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
